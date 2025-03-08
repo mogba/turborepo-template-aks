@@ -1,0 +1,9 @@
+- [x] CI/CD
+- [ ] SSR
+- [ ] tRPC with restfuncs
+- [ ] Auth
+- [ ] Redis
+- [ ] E2E tests: metrics and integration projects tasks and CI/CD
+- [ ] Git hooks
+- [ ] Optimize CI/CD and Dockerfile setup - Remove redundancy
+- [ ] Docs
